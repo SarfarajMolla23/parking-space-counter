@@ -7,10 +7,8 @@ Created a Car parking space counter using python, opencv, scikit-learn, pandas, 
 
 ### Data
 ```markdown
-
-You can download the dataset from the following link:  
-[Download Data](https://drive.google.com/drive/folders/1CjEFWihRqTLNUnYRwHXxGAVwSXF2k8QC)
+You can download the dataset from the following link [here](https://drive.google.com/drive/folders/1CjEFWihRqTLNUnYRwHXxGAVwSXF2k8QC).
 
 Ensure you have the necessary permissions to access the file. Once downloaded, follow the instructions in the repository to process or integrate the data into the project.
-```
+``` 
 
